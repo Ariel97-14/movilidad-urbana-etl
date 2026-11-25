@@ -1,0 +1,7 @@
+[project]
+name = "movilidad-urbana-etl"
+version = "0.1.0"
+description = "Importador CSV y reportes SQLite con datos sintéticos de viajes de bicicletas"
+requires-python = ">=3.11"
+dependencies = []
+
